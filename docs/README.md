@@ -5,7 +5,7 @@
 
 ## 문서 구성
 - 프로젝트 개요/실행: `README.md`
-- Replit용 개요 문서: `docs/replit.md`
+- 서비스 개요 문서: `docs/overview.md`
 - 파일 구조: `docs/structure.md`
 - 시스템 다이어그램: `docs/system-diagram.md`
 - 처리 흐름: `docs/flow.md`
